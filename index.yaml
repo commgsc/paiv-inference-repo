@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  inference:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: 2019-11-05T12:54:12.205534327-06:00
+    description: Helm Chart for Hardhat Inference Server
+    digest: 0032b845029a32685b4c0acfe20be690fb1cd2a229e33c38a15fd480de2d93c8
+    name: inference
+    urls:
+    - https://raw.githubusercontent.com/commgsc/paiv-inference-private/master/inference-0.0.9.tgz/inference-0.0.9.tgz
+    version: 0.0.9
+generated: 2019-11-05T12:54:12.203802639-06:00
